@@ -1,2 +1,0 @@
-# lama-alharbi
-lama alharbi
